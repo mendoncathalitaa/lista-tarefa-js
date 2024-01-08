@@ -1,3 +1,3 @@
 # lista-tarefa-js
 
-Lista de Tarefas usando as linguagens HTML, CSS e JavaScript pelo curso de javascript da Udemy.
+Lista de tarefas desenvolvida atraves do curso de JavaScript da Udemy que conta com HMLT, CSS e Javascript, com inserção de dados, remoção, e salva a lista na memoria atraves do LocalStorage. 
